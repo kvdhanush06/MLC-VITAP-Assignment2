@@ -1,3 +1,5 @@
 venv/
 Datasets.xlsx
 .gitattributes
+AdultIncomePrediction.pdf
+HeartDiseasePrediction.pdf
